@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @IlaydaAltinok
+- ✨ I'm student at Bilkent University
 - 🌱 I’m currently learning Java 
 - 📫 How to reach me ilayda.altinok@ug.bilkent.edu.tr
 
